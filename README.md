@@ -1,6 +1,6 @@
 # Diabetes Risk Classification – ML Assignment 2
 
-**Live app:** https://mlassignment-slfxwj4b8kewtsu8w8jjuj.streamlit.app
+**Live app:** https://mlassignment2026aj05270abdul.streamlit.app
 **GitHub repo:** https://github.com/abdulkadher2006/ML_ASSIGNMENT
 
 ---
